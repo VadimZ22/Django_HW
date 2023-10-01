@@ -3,3 +3,5 @@ INFO 2023-09-28 23:56:43,332 views 208564 208616 Index page accessed: 2023-09-28
 INFO 2023-09-28 23:56:43,333 basehttp 208564 208616 "GET / HTTP/1.1" 200 733
 INFO 2023-09-29 00:02:21,922 autoreload 208564 208568 C:\Users\Home-PC\Лекции, семинары\15 Django\home_works\myproject\settings.py changed, reloading.
 INFO 2023-09-29 00:02:22,638 autoreload 207576 208572 Watching for file changes with StatReloader
+INFO 2023-09-29 00:03:14,240 views 207576 197320 About page accessed: 2023-09-29 00:03:14.240590
+INFO 2023-09-29 00:03:14,241 basehttp 207576 197320 "GET /about/ HTTP/1.1" 200 696
