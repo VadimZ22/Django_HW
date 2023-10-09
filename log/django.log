@@ -5,3 +5,37 @@ INFO 2023-09-29 00:02:21,922 autoreload 208564 208568 C:\Users\Home-PC\Лекции, с
 INFO 2023-09-29 00:02:22,638 autoreload 207576 208572 Watching for file changes with StatReloader
 INFO 2023-09-29 00:03:14,240 views 207576 197320 About page accessed: 2023-09-29 00:03:14.240590
 INFO 2023-09-29 00:03:14,241 basehttp 207576 197320 "GET /about/ HTTP/1.1" 200 696
+INFO 2023-10-05 01:14:21,067 autoreload 267364 274916 Watching for file changes with StatReloader
+WARNING 2023-10-05 01:14:26,999 log 267364 276908 Not Found: /favicon.ico
+WARNING 2023-10-05 01:14:27,046 basehttp 267364 276908 "GET /favicon.ico HTTP/1.1" 404 2551
+INFO 2023-10-05 01:14:36,001 views 267364 276532 Index page accessed: 2023-10-05 01:14:36.001653
+INFO 2023-10-05 01:14:36,010 basehttp 267364 276532 "GET / HTTP/1.1" 200 733
+INFO 2023-10-05 01:14:52,172 basehttp 267364 276532 "GET /homework3/ HTTP/1.1" 200 1093
+INFO 2023-10-05 01:15:27,243 basehttp 267364 276532 "GET /homework3/user/2 HTTP/1.1" 301 0
+INFO 2023-10-05 01:15:27,255 basehttp 267364 277020 "GET /homework3/user/2/ HTTP/1.1" 200 183
+INFO 2023-10-05 01:15:53,124 basehttp 267364 277020 "GET /homework3/user/1/ HTTP/1.1" 200 1041
+INFO 2023-10-05 01:16:01,294 basehttp 267364 277020 "GET /homework3/user/4/ HTTP/1.1" 200 932
+INFO 2023-10-05 01:16:09,852 basehttp 267364 277020 "GET /homework3/user/2/ HTTP/1.1" 200 183
+INFO 2023-10-05 01:16:13,698 basehttp 267364 277020 "GET /homework3/user/3/ HTTP/1.1" 200 183
+INFO 2023-10-05 01:16:18,204 basehttp 267364 277020 "GET /homework3/user/5/ HTTP/1.1" 200 689
+INFO 2023-10-05 01:17:06,658 basehttp 267364 277020 "GET /homework3/user_sorted/1/1 HTTP/1.1" 301 0
+INFO 2023-10-05 01:17:06,666 basehttp 267364 277236 "GET /homework3/user_sorted/1/1/ HTTP/1.1" 200 242
+INFO 2023-10-05 01:17:12,909 basehttp 267364 277236 "GET /homework3/user_sorted/1/20/ HTTP/1.1" 200 1036
+INFO 2023-10-05 01:19:22,764 basehttp 267364 277236 "GET /homework3/user_sorted/1/5/ HTTP/1.1" 200 1034
+INFO 2023-10-05 01:19:26,770 basehttp 267364 277236 "GET /homework3/user_sorted/5/5/ HTTP/1.1" 200 638
+INFO 2023-10-10 01:55:26,756 autoreload 324308 327564 Watching for file changes with StatReloader
+INFO 2023-10-10 02:05:35,820 autoreload 328076 328072 Watching for file changes with StatReloader
+INFO 2023-10-10 02:08:38,122 autoreload 328076 328072 C:\Users\Home-PC\Лекции, семинары\15 Django\home_works\myapp2\views.py changed, reloading.
+INFO 2023-10-10 02:08:38,844 autoreload 329512 329372 Watching for file changes with StatReloader
+INFO 2023-10-10 02:08:52,796 autoreload 329276 329280 Watching for file changes with StatReloader
+INFO 2023-10-10 02:10:41,146 autoreload 326004 322404 Watching for file changes with StatReloader
+INFO 2023-10-10 02:11:10,216 autoreload 329548 319860 Watching for file changes with StatReloader
+INFO 2023-10-10 02:11:19,609 views 329548 327720 Index page accessed: 2023-10-10 02:11:19.608373
+INFO 2023-10-10 02:11:19,610 basehttp 329548 327720 "GET / HTTP/1.1" 200 733
+INFO 2023-10-10 02:11:23,021 basehttp 329548 327720 "GET /about HTTP/1.1" 301 0
+INFO 2023-10-10 02:11:23,024 views 329548 325924 About page accessed: 2023-10-10 02:11:23.024912
+INFO 2023-10-10 02:11:23,025 basehttp 329548 325924 "GET /about/ HTTP/1.1" 200 696
+INFO 2023-10-10 02:11:55,354 views 329548 325924 About page accessed: 2023-10-10 02:11:55.354285
+INFO 2023-10-10 02:11:55,358 basehttp 329548 325924 "GET /about/ HTTP/1.1" 200 696
+INFO 2023-10-10 02:12:08,100 basehttp 329548 325924 "GET /homework4/product_update/2 HTTP/1.1" 200 1275
+INFO 2023-10-10 02:12:32,666 basehttp 329548 325924 "POST /homework4/product_update/2 HTTP/1.1" 200 1315
