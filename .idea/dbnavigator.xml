@@ -23,6 +23,7 @@
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="134c8194-84c1-4985-a18c-a345528633d5" dataset="main.myapp2_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="134c8194-84c1-4985-a18c-a345528633d5" dataset="main.myapp2_order" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="134c8194-84c1-4985-a18c-a345528633d5" dataset="main.myapp2_user" active-filter-id="EMPTY_FILTER" />
   </component>
